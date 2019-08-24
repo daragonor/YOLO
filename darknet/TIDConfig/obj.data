@@ -1,5 +1,5 @@
 classes= 28
-train  = /home/daragonor/Desktop/TID/YOLO/YOLO-Annotation-Tool/train.txt  
-valid  = /home/daragonor/Desktop/TID/YOLO/YOLO-Annotation-Tool/test.txt  
+train  = /home/daragonor/Desktop/TID/SKImageDataset/train.txt  
+valid  = /home/daragonor/Desktop/TID/SKImageDataset/test.txt  
 names = TIDConfig/obj.names  
 backup = backup/
